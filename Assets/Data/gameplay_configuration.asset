@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ff23f82c628ad8439a607d65d677021, type: 3}
+  m_Name: gameplay_configuration
+  m_EditorClassIdentifier: 
+  pieceWidth: 100
+  pieceHeight: 100
+  rows: 5
+  columns: 5
+  sprites:
+  - {fileID: -3577052445578082173, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 4198864051118498469, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: -4469223803301961751, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 5194665688051251631, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 508686621342042397, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: -5801621993535099023, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 7730869622695164283, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 8683693774574667229, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 3271769251677342467, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 838142789773883439, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 4046838518091614202, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 5996296125808846903, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 6943194612812582185, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: -5639080630649894335, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 6608054114951616993, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 602260363735102088, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: -1990389331012058016, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 2576049371645773195, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 7996103707935423427, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: -5102721155525085440, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: -1203214369871227285, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 6136690160215865578, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: 7871423768484830695, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: -8171937400201388434, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
+  - {fileID: -2828875780714470676, guid: ff5fbb3582f3600459fda8078b4048d6, type: 3}
